@@ -1,9 +1,8 @@
 ---
+layout: post
 title: "2018 NASA Robotic Mining Competition"
-excerpt: "The game has been changed and we must dig deeper"
-author:
-  name: Cole Mortensen
-  twitter: mortensencole
+subtitle: "The game has been changed and we must dig deeper"
+tags: [RMC, NASA, Rules]
 ---
 
 The rules have been updated this year for the NASA Robotic Mining Competition.
