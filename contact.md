@@ -5,7 +5,7 @@ subtitle:
 
 ---
 
-You can contact at us at TODO
+You can contact at us at utahstudentrobotics@gmail.com
 
 
 ## Joining
