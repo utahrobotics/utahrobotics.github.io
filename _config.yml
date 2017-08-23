@@ -24,7 +24,9 @@ description: Student robotics group at the University of Utah
 
 # List of links in the navigation bar
 navbar-links:
-  About Us: "aboutus"
+  About: "about"
+  Sponsors: "sponsors"
+  Contact: "contact"
   #Resources:
   #  - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
   #  - Learn markdown: "http://www.markdowntutorial.com/"
@@ -93,7 +95,7 @@ share-links-active:
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "UtahRobotics.github.io"  # eg. "deanattali.com/beautiful-jekyll"
+# url-pretty: "utahrobotics.github.io"  # eg. "deanattali.com/beautiful-jekyll"
 
 # --- Misc --- #
 # Fill in your Disqus shortname (NOT the userid) if you want to support Disqus comments
