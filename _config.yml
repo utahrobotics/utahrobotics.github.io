@@ -124,7 +124,7 @@ title-separator: "-"
 timezone: "America/Denver"
 markdown: kramdown
 highlighter: rouge
-permalink: /:year-:month-:day-:title/
+permalink: /:year/:month/:day/:title/
 paginate: 5
 
 kramdown:
@@ -172,6 +172,7 @@ prose:
     - _config.yml
     - /_layouts
     - /_includes
+    - /_drafts
     - /css
     - /img
     - /js
